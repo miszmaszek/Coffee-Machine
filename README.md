@@ -2,7 +2,6 @@
 
 Terminal app that simulates a Coffee Machine.  
 _Completed on 11 October 2020_
-App is a project that was a part of JetBrains Academy Python Developer course. Main task on this stage was to use object oriented programming for the first time.
 
 The project is part of Python Developer track on JetBrains Academy (Hyperskill).  
 Link - [hyperskill/coffee-machine](https://hyperskill.org/projects/68?track=2)  
